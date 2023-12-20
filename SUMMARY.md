@@ -9,5 +9,3 @@
   * [💡 2-1 REST API](week2-rest-api/2-1-rest-api.md)
   * [💡 2-2 URI & MIME type](week2-rest-api/2-2-uri-and-mime-type.md)
   * [💡 2-3 Collection Pattern](week2-rest-api/2-3-collection-pattern.md)
-  * [💡 2-4 Collection Pattern 적용](week2-rest-api/2-4-collection-pattern.md)
-  * [💡 2-5 Spring Web MVC 구현](week2-rest-api/2-5-spring-web-mvc.md)
