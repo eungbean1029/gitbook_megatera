@@ -91,7 +91,7 @@ TLS란?
 
 #### HTTP 구조
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 시작 줄 : 실행되어야 할 요청 , 또는 요청 수행에 대한 성공 또는 실패가 기록되어 있다.
 2. 옵션 : HTTP 헤더 세트가 들어간다.&#x20;
