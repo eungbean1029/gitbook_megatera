@@ -1,16 +1,5 @@
 # 💡 3-1 DTO
 
-* RPC ,RMI
-* DTO
-  * setter, getter로 이루어짐
-  * java bean 형태랑 가깝다.
-* Tier간 통신
-  * f/e b/e 사이
-    * dto를 그대로 전송할 수는 없고 직렬화를 통해야 한다.
-      * json형식
-  * b/e db사이
-    * Transger Object라고 정정함
-
 ### ✅ RPC
 
 > #### 원격 프로시저 호출(Remote Procedure Call)은 별도의 원격 제어를 위한 코딩 없이 다른 주소 공간에서 함수나 프로시저를 실행할 수 있게하는 프로세스 간 통신 기술이다.
