@@ -15,7 +15,7 @@
 
 아래 구성요소 중에서 Protocol + Host + Port 3가지가 같으면 동일 출처(Origin)이라고 한다.
 
-## ![](../.gitbook/assets/image.png)
+## ![](<../.gitbook/assets/image (3).png>)
 {% endhint %}
 
 
@@ -33,7 +33,7 @@
 
 <mark style="color:blue;">**아래와 같이 에러가 발생한다.**</mark>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### ✅ CORS가 필요한 이유?
 
@@ -45,7 +45,7 @@
 
 1. 클라이언트에서 HTTP 요청 헤더에 Origin을 담아 전달한다.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 2. 서버는 응답헤더에 Access-Control-Allow-Origin을 담아 클라이언트로 전달한다.
    1. 이후에 서버가 이 요청에 대한 응답을 할 떄 응답 헤더에 Access-Control-Allow-Origin이라는 필드를 추가하고 값으로 <mark style="color:orange;">**"이 리소스를 접근하는 것이 허용된 출처 url"**</mark>을 내려보낸다.

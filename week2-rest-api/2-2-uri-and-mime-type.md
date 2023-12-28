@@ -9,7 +9,7 @@
 
 ### ✅ URI란?
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * URI는 Uniform Resource Identifier 즉 통합 자원 식별자의 줄임말이다.
 * URI는 인터넷의 자원을 식별할 수 있는 문자열을 의미한다.
@@ -19,7 +19,7 @@
 
 ### ✅ URL이란?
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * URL은 Uniform Resource Locator의 줄임말이다.
 * URL은 네트워크 상에서 웹페이지, 이미지, 동영상 등의 파일이 위치한 정보를 나타낸다.
