@@ -14,3 +14,5 @@
   * [💡 3-2 Serialization](week3/3-2-serialization.md)
   * [💡 3-3 Jackson ObjectMapper](week3/3-3-jackson-objectmapper.md)
   * [💡 3-4 CORS](week3/3-4-cors.md)
+* [4⃣ WEEK4 - Layered Architecture](week4-layered-architecture/README.md)
+  * [💡 4-1 Layered Architecture](week4-layered-architecture/4-1-layered-architecture.md)
