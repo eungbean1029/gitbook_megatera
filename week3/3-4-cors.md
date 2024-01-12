@@ -33,7 +33,7 @@
 
 <mark style="color:blue;">**아래와 같이 에러가 발생한다.**</mark>
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### ✅ CORS가 필요한 이유?
 

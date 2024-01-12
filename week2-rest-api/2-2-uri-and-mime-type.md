@@ -19,7 +19,7 @@
 
 ### ✅ URL이란?
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * URL은 Uniform Resource Locator의 줄임말이다.
 * URL은 네트워크 상에서 웹페이지, 이미지, 동영상 등의 파일이 위치한 정보를 나타낸다.

@@ -9,7 +9,7 @@
 * 객체로부터 JSON형테의 문자열을 만들어내는 것을 말한다.
 * 주로 @ResponseBody, @RestController, @ResponseEntitiy등을 사용하는 경우에 처리된다.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 아래와 같이 writeValueAsString 메서드가 사용된다.
 
@@ -28,5 +28,5 @@ String jsonResult = objectMapper.writeValueAsString(myDTO());
 * Spring에서 @RequestBody로 JSON문자열을 객체로 받아올 때 역직렬화가 처리된다.
 * 주로, <mark style="color:blue;">**기본 생성자로 객체를 생성**</mark>하거나 <mark style="color:blue;">**필드값을 찾아서 값을 바인딩**</mark> 해줄때 처리된다.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
