@@ -22,3 +22,5 @@
   * [💡 5-1 Dependency Injection](week5/5-1-dependency-injection.md)
   * [💡 5-2 Unit Test](week5/5-2-unit-test.md)
   * [💡 5-3 Spring Test](week5/5-3-spring-test.md)
+* [6⃣ WEEK6 - Database](week6-database/README.md)
+  * [💡 6-1 DBMS & Relational Model](week6-database/6-1-dbms-and-relational-model.md)
