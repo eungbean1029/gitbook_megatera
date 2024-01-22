@@ -17,7 +17,7 @@
 
 ### ✅ DTO란?
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * Data Transfer Object의 약자이다.
 * 계층 간 데이터 전송을 위해 도메인 모델 대신 사용되는 객체이다.

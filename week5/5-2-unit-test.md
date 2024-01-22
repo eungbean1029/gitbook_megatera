@@ -8,7 +8,7 @@
 
 ### 2️⃣ 특징
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * 일반적으로 각 단계의 테스트 코드는 V 모델을 통해서 살펴 볼 수 있다.
 * V모델은 소프트웨어 개발 생명 주기중 하나로, 시스템 개발 과정을 시각화한 모델이다.

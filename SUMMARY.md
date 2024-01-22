@@ -24,3 +24,5 @@
   * [💡 5-3 Spring Test](week5/5-3-spring-test.md)
 * [6⃣ WEEK6 - Database](week6-database/README.md)
   * [💡 6-1 DBMS & Relational Model](week6-database/6-1-dbms-and-relational-model.md)
+  * [💡 6-2 JDBC](week6-database/6-2-jdbc.md)
+  * [💡 6-3 Spring JDBC Template](week6-database/6-3-spring-jdbc-template.md)

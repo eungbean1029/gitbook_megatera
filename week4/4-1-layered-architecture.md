@@ -4,7 +4,7 @@
 
 ### 1️⃣ 정의
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 계층화 아키텍쳐는 소프트웨어 개발에서 가장 일반적으로 널리 사용되는 아키텍펴이다.  그리고 구성되는 계층의 숫자에 따라 N계층 아키텍쳐라고도 한다.
 
