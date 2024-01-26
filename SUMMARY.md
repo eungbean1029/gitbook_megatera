@@ -26,3 +26,7 @@
   * [💡 6-1 DBMS & Relational Model](week6/6-1-dbms-and-relational-model.md)
   * [💡 6-2 JDBC](week6/6-2-jdbc.md)
   * [💡 6-3 Spring JDBC Template](week6/6-3-spring-jdbc-template.md)
+* [7⃣ JPA](week7/README.md)
+  * [💡 ORM & JPA & Hibernate](week7/orm-and-jpa-and-hibernate.md)
+  * [💡 Embedable](week7/embedable.md)
+  * [💡 Spring Data JPA](week7/spring-data-jpa.md)
