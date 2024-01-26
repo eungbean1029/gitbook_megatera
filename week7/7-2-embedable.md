@@ -1,4 +1,4 @@
-# 💡 Embedable
+# 💡 7-2 Embedable
 
 ## ✅ @Embedded, @Embeddable
 

@@ -1,4 +1,4 @@
-# 💡 Spring Data JPA
+# 💡 7-3 Spring Data JPA
 
 ## ✅ Spring Data JPA
 

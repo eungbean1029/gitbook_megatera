@@ -1,4 +1,4 @@
-# 💡 ORM & JPA & Hibernate
+# 💡 7-1 ORM & JPA & Hibernate
 
 ## ✅ ORM & JPA
 
